@@ -4,8 +4,7 @@
 
   ## Deployment
 
-  The API is deployed at: [https://contacts-api-cse341.onrender.com/](https://contacts-api-cse341.onrender.com/)
-
+  The API is deployed at: [https://contacts-api-cse341-z6ar.onrender.com/](https://contacts-api-cse341-z6ar.onrender.com/)
   ## Project Structure
 
   The project follows MVC architecture:
@@ -17,8 +16,7 @@
 
   1. Clone the repository:
      ```bash
-     git clone https://github.com/febirison/contacts-api-cse341.git
-     cd contacts-api-cse341
+     git clone 
      ```
 
   2. Install dependencies:
