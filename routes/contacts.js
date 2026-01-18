@@ -58,7 +58,7 @@ router.post('/', validateContact, async (req, res) => {
   }
 });
 
-// Update a contact
+// Update a contact CRUD
 router.put('/:id', validateContact, async (req, res) => {
   try {
     const result = await updateContact(req.params.id, req.body);
