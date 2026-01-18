@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://contacts-api-cse341.onrender.com",
+      "url": "https://cse341-project1-k1om.onrender.com",
       "description": "Render Deployment"
     },
     {
