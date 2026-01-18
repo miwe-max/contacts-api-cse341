@@ -26,7 +26,7 @@
 
   3. Create a `.env` file:
      ```bash
-     echo "MONGO_URI=mongodb+srv://<user>:<password>@contactscluster.9rtk9fa.mongodb.net/contactsDB?retryWrites=true&w=majority" > .env
+     echo "MONGO_URI=mong/contactsDB?retryWrites=true&w=majority" > .env
      ```
 
   4. Start the server:
