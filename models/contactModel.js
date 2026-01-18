@@ -19,7 +19,7 @@ async function connectToMongoDB() {
     process.exit(1);
   }
 }
-]
+
 
 // Validate contact data
 function validateContactData(contactData) {
