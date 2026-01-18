@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
   res.send('Welcome to Contacts API');
 });
 
-// Connect routes
+// route Connect routes
 app.use('/contacts', contactRoutes);
 
 // Start server and connect to MongoDB
